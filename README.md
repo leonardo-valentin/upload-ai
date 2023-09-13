@@ -2,6 +2,9 @@
 
 Este é um projeto frontend incrível que utiliza React, shadcn UI, Radix UI, Tailwind CSS e TypeScript para criar uma interface deslumbrante.
 
+![upload-api](![image](https://github.com/leonardo-valentin/upload-ai/assets/71048056/49f2d6fb-eb8c-47ed-9bbf-c547717efead)
+)
+
 ## Descrição
 
 O upload-api é uma demonstração de como as tecnologias modernas podem ser combinadas para criar uma interface atraente e funcional. Com o uso de React, ShaCnui, Radix UI, Tailwind CSS e TypeScript, nossa equipe criou uma experiência de usuário excepcional.
