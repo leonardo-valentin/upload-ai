@@ -2,8 +2,7 @@
 
 Este é um projeto frontend incrível que utiliza React, shadcn UI, Radix UI, Tailwind CSS e TypeScript para criar uma interface deslumbrante.
 
-![upload-api](![image](https://github.com/leonardo-valentin/upload-ai/assets/71048056/49f2d6fb-eb8c-47ed-9bbf-c547717efead)
-)
+(![image](https://github.com/leonardo-valentin/upload-ai/assets/71048056/49f2d6fb-eb8c-47ed-9bbf-c547717efead)
 
 ## Descrição
 
